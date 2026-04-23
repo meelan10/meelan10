@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milan Wagle</h1>
 <h3 align="center"> 🚀 Frontend Developer | Future DevOps Engineer </h3>
 
-<p align="center">
+<p  align="center">
   <img src="https://komarev.com/ghpvc/?username=meelan10&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
